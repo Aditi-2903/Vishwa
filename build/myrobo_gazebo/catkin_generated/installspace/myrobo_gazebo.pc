@@ -1,0 +1,8 @@
+prefix=/home/catastrophe/arm_ws/install
+
+Name: myrobo_gazebo
+Description: Description of myrobo_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
